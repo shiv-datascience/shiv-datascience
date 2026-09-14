@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **datascientist.shivprasad@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Shivprasad%20Waghmare/Downloads/M.L_Resume.pdf](file:///C:/Users/Shivprasad%20Waghmare/Downloads/M.L_Resume.pdf)
+- 📄 Know about my experiences [📄 Know about my experiences → [View My Resume](./Shivprasad_Waghmare_Resume.pdf]
 
 - ⚡ Fun fact **I think I'm funny**
 
